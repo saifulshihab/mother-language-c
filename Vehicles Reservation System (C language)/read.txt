@@ -1,0 +1,23 @@
+Please put the "Project_File" folder in your Desktop location.
+
+                                    || Daffodil International University  ||
+
+Name         : Saiful Islam Shihab
+Student ID   : 171-35-1970
+
+Course Details
+
+Course Title : Software Engineering Project-1(using C language)
+Course Code  : SWE231
+Teacher      : Nusrat Jahan  
+
+
+
+For Admin Portal:
+Email    : shihab
+Password : 123
+
+For Reservation (User Portal):
+Email    : shihab
+Password : 123
+
